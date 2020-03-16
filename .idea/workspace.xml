@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ce1055-e8a0-47e1-a56a-1553644d8897" name="Default Changelist" comment="" />
+    <list default="true" id="55ce1055-e8a0-47e1-a56a-1553644d8897" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NameScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NameScanner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZDTv4K74sqXrGLx3ZrlaYz1JGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -42,7 +51,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NameScanner">
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
+      <module name="NameScanner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NameScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NameScanner" />
       <module name="NameScanner" />
@@ -53,6 +69,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.NameScanner" />
+        <item itemvalue="Application.DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -66,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584372891242</updated>
-      <workItem from="1584372893824" duration="2784000" />
+      <workItem from="1584372893824" duration="15049000" />
     </task>
     <servers />
   </component>
@@ -74,13 +91,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1584391669981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584391669981" />
+    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1584391669981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584391669981" />
+    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1584391669981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584391669981" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1584391669981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584391669981" />
+    <state x="479" y="52" key="RollbackChangesDialog" timestamp="1584389497215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="479" y="52" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1584389497215" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1584375808646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584375808646" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584375136705">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584389562996">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584375136705" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584389562996" />
   </component>
 </project>
